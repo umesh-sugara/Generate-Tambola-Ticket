@@ -47,6 +47,10 @@ Database Used:
 - Note: It brings data after getting Page Number and Page Size from the user.
 ![image](https://github.com/umesh-sugara/Generate-Tambola-Ticket/assets/73294581/ebba2c59-9e3d-4210-a853-a711f507a542)
 
+### Postman Output
+![image](https://github.com/umesh-sugara/Generate-Tambola-Ticket/assets/73294581/d9490e15-3fb9-4f32-88df-1f43e505f40f)
+
+
 
 ## Feedback
 If you have any feedback, please reach out at umeshsugara9@gmail.com
