@@ -1,9 +1,8 @@
 
 # Tambola Tickets Generator
 
-This is a code that design a Tambola Ticket Generator with the backend engine of Microsoft SQL Server.
-
-
+This is a code for a Tambola Ticket Generator with the backend engine of Microsoft SQL Server.
+![image](https://github.com/umesh-sugara/Generate-Tambola-Ticket/assets/73294581/4be1fe57-8636-4934-84f8-705c79d89861)
 
 
 
